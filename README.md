@@ -7,6 +7,7 @@ This repository documents my journey through the 21DaysOfCoding Challenge. I too
 ## Structure:
 
 * Each day's solutions are organized in a separate folder, each file named after the problem.
+* Each day's folder has a .md file containing links to the problems.
 * The code is written in Java.
 * Clear and concise comments accompany the code for better understanding.
 
