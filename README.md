@@ -13,4 +13,4 @@ This repository documents my journey through the 21DaysOfCoding Challenge. I too
 
 ## Why 21DaysOfCoding?
 
-Participating in the 21DaysOfCoding Challenge allowed me to maintain small yet effective coding streaks, establishing a consistent routine. This practice not only enhanced my problem-solving skills but also prepared me for technical interviews during placement initiatives. During these 21 days, I mainly focused on Linked Lists, Stacks, Queues as well as Greedy Algorithms.
+Participating in the 21DaysOfCoding Challenge allowed me to maintain small yet effective coding streaks, establishing a consistent routine. This practice not only enhanced my problem-solving skills but also prepared me for technical interviews during placement initiatives. During these 21 days, I mainly focused on Linked Lists, as well as trying some very popular questions that have helped in building my concepts.
